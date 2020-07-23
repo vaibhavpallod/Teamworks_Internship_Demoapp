@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "229358566835",
+    "firebase_url": "https://teamworkinternshipdemo.firebaseio.com",
+    "project_id": "teamworkinternshipdemo",
+    "storage_bucket": "teamworkinternshipdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229358566835:android:344f675f677733fc88dfc6",
+        "android_client_info": {
+          "package_name": "com.vsp.teamworksinternshipdemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229358566835-085q4qfph0t3rtb16jjncn83ar022l2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vsp.teamworksinternshipdemoapp",
+            "certificate_hash": "3b5cf91f710943ad48179e1ae67bf84ce455d672"
+          }
+        },
+        {
+          "client_id": "229358566835-14j8uhl7jd2hmcv4a4n2m66hpcts0nvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZixoFQxXQl_ieHYLIeUek25zDSUzVdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229358566835-14j8uhl7jd2hmcv4a4n2m66hpcts0nvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
